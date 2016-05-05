@@ -64,6 +64,12 @@ h1 {
 	float: left;
 	background-color: rgba(195,210,229,1.00);
 }
-#margin {
-	margin-left: 28%;
+#stop {
+	margin-left: 26.5%;
+}
+#go {
+	margin-left: 1%;
+}
+#yield {
+	margin-left: 1%;
 }
